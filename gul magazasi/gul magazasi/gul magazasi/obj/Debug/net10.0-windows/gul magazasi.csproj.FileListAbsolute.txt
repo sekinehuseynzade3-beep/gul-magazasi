@@ -1,0 +1,18 @@
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\bin\Debug\net10.0-windows\gul magazasi.exe
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\bin\Debug\net10.0-windows\gul magazasi.deps.json
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\bin\Debug\net10.0-windows\gul magazasi.runtimeconfig.json
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\bin\Debug\net10.0-windows\gul magazasi.dll
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\bin\Debug\net10.0-windows\gul magazasi.pdb
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul_magazasi.Form1.resources
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul_magazasi.Properties.Resources.resources
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul magazasi.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul magazasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul magazasi.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul magazasi.AssemblyInfo.cs
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul magazasi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul magazasi.dll
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\refint\gul magazasi.dll
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul magazasi.pdb
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul magazasi.genruntimeconfig.cache
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\ref\gul magazasi.dll
+C:\Users\User\OneDrive\Sənədlər\gul magazasi\gul magazasi\gul magazasi\obj\Debug\net10.0-windows\gul maga.7169E2BF.Up2Date
